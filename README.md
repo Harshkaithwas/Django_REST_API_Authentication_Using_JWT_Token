@@ -7,7 +7,7 @@ For using this project:
     
 1. Copy this code to your project and use it there.
         
-        Run tour code and use jwt Authentication
+        Run this code and use jwt Authentication
 
 2. Download this code to your machine.
 
